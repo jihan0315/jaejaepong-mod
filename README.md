@@ -1,4 +1,4 @@
-# Fabric Example Mod
+# Elytra on Chestplate
 
 ## Setup
 
